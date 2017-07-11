@@ -1,0 +1,31 @@
+{
+  "name": "flzt",
+  "version": "0.0.3",
+  "description": "workflow update",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DingMoonHu/flzt.git"
+  },
+  "keywords": [
+    "workflow"
+  ],
+  "author": "hudw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DingMoonHu/flzt/issues"
+  },
+  "bin": {
+    "flzt": "./node_modules/yuefe/bin/yuefe"
+  },
+  "homepage": "https://github.com/DingMoonHu/flzt#readme",
+  "dependencies": {
+    "fis-parser-babel-6.x": "^6.20.0",
+    "fis3-parser-vue-component": "^5.0.0",
+    "npm": "^3.0.0",
+    "yuefe": "0.0.7"
+  }
+}
